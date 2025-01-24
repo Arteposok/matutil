@@ -1,0 +1,10 @@
+C:\Users\aepos\OneDrive\Рабочий стол\matutil\target\release\deps\libowned_ttf_parser-5d5036fe97183383.rmeta: C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src/lib.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\convert.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\owned.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\preparse.rs
+
+C:\Users\aepos\OneDrive\Рабочий стол\matutil\target\release\deps\libowned_ttf_parser-5d5036fe97183383.rlib: C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src/lib.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\convert.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\owned.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\preparse.rs
+
+C:\Users\aepos\OneDrive\Рабочий стол\matutil\target\release\deps\owned_ttf_parser-5d5036fe97183383.d: C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src/lib.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\convert.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\owned.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\preparse.rs
+
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src/lib.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\convert.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\owned.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\owned_ttf_parser-0.25.0\src\preparse.rs:

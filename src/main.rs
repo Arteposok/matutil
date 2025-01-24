@@ -1,7 +1,6 @@
 #![windows_subsystem = "windows"]
-use std::{collections::HashMap, default, fs};
 use eframe::NativeOptions;
-use egui::{FontData, FontDefinitions, FontFamily, Pos2, Rect, Vec2, ViewportBuilder};
+use egui::{FontData, FontDefinitions, FontFamily, Vec2, ViewportBuilder};
 use eval::Expr;
 
 struct App{
@@ -16,7 +15,9 @@ struct App{
     median_result:String,
 }
 impl App{
-    fn eval_formula(&mut self){
+    fn eval_formula(
+        &mut self,
+    ){
         let value=Expr::new(self.formula.clone())
             .value("x", self.x.clone().parse().unwrap_or(1.))
             .value("y", self.y.clone().parse().unwrap_or(1.))
@@ -24,10 +25,11 @@ impl App{
             .exec().unwrap();
         let result=value.as_f64().unwrap() as f32;
         self.eval_result=format!("{}", result).to_string();
-
     }
 
-    fn calculate_mean(&mut self){
+    fn calculate_mean(
+        &mut self,
+    ){
         if self.mean.is_empty(){
             return
         }
@@ -40,7 +42,9 @@ impl App{
         self.mean_result=format!("{}", sum/len).to_string();
     }
 
-    fn calculate_median(&mut self){
+    fn calculate_median(
+        &mut self,
+    ){
         if self.median.is_empty(){
             return
         }
@@ -72,7 +76,9 @@ impl App{
             self.median_result=format!("{}", v1).to_string();
         }
     }
-    fn configure_fonts(ctx: &egui::Context) {
+    fn configure_fonts(
+        ctx: &egui::Context,
+    ) {
         let mut fonts = FontDefinitions::default();
 
         // Install my own font (maybe supporting non-latin characters):
@@ -111,8 +117,13 @@ impl Default for App{
     }
 }
 impl eframe::App for App{
-    fn update(&mut self, ctx_: &egui::Context, frame: &mut eframe::Frame) {
-        egui::CentralPanel::default().show(ctx_, |ctx|{
+    fn update(&mut self,
+              ctx_: &egui::Context,
+              _frame: &mut eframe::Frame,
+    ) {
+        egui::CentralPanel::default().show(
+            ctx_, |ctx,|
+                {
             Self::configure_fonts(ctx_);
             ctx.group(|ctx|{
                 ctx.label("formula");
