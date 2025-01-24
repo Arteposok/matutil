@@ -1,0 +1,11 @@
+C:\Users\aepos\OneDrive\Рабочий стол\matutil\target\debug\deps\libfdeflate-4408109cc2d9180a.rmeta: C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src/lib.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\compress.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\decompress.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\huffman.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\tables.rs
+
+C:\Users\aepos\OneDrive\Рабочий стол\matutil\target\debug\deps\libfdeflate-4408109cc2d9180a.rlib: C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src/lib.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\compress.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\decompress.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\huffman.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\tables.rs
+
+C:\Users\aepos\OneDrive\Рабочий стол\matutil\target\debug\deps\fdeflate-4408109cc2d9180a.d: C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src/lib.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\compress.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\decompress.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\huffman.rs C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\tables.rs
+
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src/lib.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\compress.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\decompress.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\huffman.rs:
+C:\Users\aepos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fdeflate-0.3.7\src\tables.rs:
